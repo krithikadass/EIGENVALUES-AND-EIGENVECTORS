@@ -1,5 +1,5 @@
 # EIGENVALUES-AND-EIGENVECTORS
-## Aim: To write a python program to find the eigen values and eigen vectors
+## Aim: 
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
 1. 	Hardware – PCs
